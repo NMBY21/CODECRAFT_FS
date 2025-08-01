@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "1. cd backend\r     -npm init -y\r     -npm install express mongoose bcryptjs jsonwebtoken dotenv cors\r     -npm install --save-dev nodemon\r 2.",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
